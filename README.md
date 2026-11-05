@@ -415,6 +415,10 @@ Social Media Osint, also known as Social media intelligence allows one to collec
     - Link: [Social Finder](https://socialfinder.app)
     - Description: A platform to search and discover social media profiles on various platforms.
 
+11. **SnapDataHub**
+    - Link: [SnapDataHub](https://snapdatahub.com/)
+    - Description: A tool for looking up a public Snapchat profile's subscriber counts, Spotlight performance, engagement metrics and growth data.
+
 
 ## WhatsApp
 
